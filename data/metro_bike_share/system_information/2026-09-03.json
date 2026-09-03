@@ -1,0 +1,25 @@
+{
+  "ttl": 60,
+  "data": {
+    "rental_apps": {
+      "android": {
+        "store_uri": "https://play.google.com/store/apps/details?id=com.bcycle",
+        "discovery_uri": "bcycle://"
+      },
+      "ios": {
+        "store_uri": "https://apps.apple.com/us/app/bcycle/id371185597",
+        "discovery_uri": "bcycle://"
+      }
+    },
+    "purchase_url": "https://www.taptogo.net/metrobikeshare",
+    "system_id": "bcycle_lametro",
+    "name": "Metro Bike Share",
+    "language": "en",
+    "url": "https://bikeshare.metro.net",
+    "phone_number": "844.857.2453",
+    "email": "support@bikeshare.metro.net",
+    "timezone": "America/Los_Angeles"
+  },
+  "version": "1.1",
+  "last_updated": 1788398124
+}
