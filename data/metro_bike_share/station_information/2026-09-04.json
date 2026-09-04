@@ -1,0 +1,2907 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -118.25854,
+        "lat": 34.0485,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3005&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3005&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "700 Flower St",
+        "name": "7th & Flower",
+        "station_id": "bcycle_lametro_3005"
+      },
+      {
+        "lon": -118.25667,
+        "lat": 34.04554,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3006&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3006&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "729 S Olive Street",
+        "name": "Olive & 8th",
+        "station_id": "bcycle_lametro_3006"
+      },
+      {
+        "lon": -118.25459,
+        "lat": 34.05048,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3007&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3007&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "557 S 5th Street",
+        "name": "5th & Grand",
+        "station_id": "bcycle_lametro_3007"
+      },
+      {
+        "lon": -118.26273,
+        "lat": 34.04661,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3008&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3008&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "865 S Figueroa Street",
+        "name": "Figueroa & 9th",
+        "station_id": "bcycle_lametro_3008"
+      },
+      {
+        "lon": -118.25487,
+        "lat": 34.03705,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3010&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3010&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "401 East 11th Street",
+        "name": "11th & Maple",
+        "station_id": "bcycle_lametro_3010"
+      },
+      {
+        "lon": -118.26735,
+        "lat": 34.04157,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3011&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3011&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1259-1299 S Figueroa Street",
+        "name": "Figueroa & 12th",
+        "station_id": "bcycle_lametro_3011"
+      },
+      {
+        "lon": -118.2372,
+        "lat": 34.05659,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3014&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3014&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "834 N Alameda St",
+        "name": "Union Station West Portal",
+        "station_id": "bcycle_lametro_3014"
+      },
+      {
+        "lon": -118.24156,
+        "lat": 34.0529,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3016&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3016&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 N Los Angeles Street",
+        "name": "Los Angeles & Temple",
+        "station_id": "bcycle_lametro_3016"
+      },
+      {
+        "lon": -118.26014,
+        "lat": 34.04373,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3018&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3018&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "919 S Grand Ave.",
+        "name": "Grand & Olympic",
+        "station_id": "bcycle_lametro_3018"
+      },
+      {
+        "lon": -118.26086,
+        "lat": 34.03861,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3019&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3019&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "129 W 12th Street",
+        "name": "12th & Hill",
+        "station_id": "bcycle_lametro_3019"
+      },
+      {
+        "lon": -118.26709,
+        "lat": 34.03105,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3020&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3020&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1950 S Hill Street",
+        "name": "Hill & Washington",
+        "station_id": "bcycle_lametro_3020"
+      },
+      {
+        "lon": -118.23309,
+        "lat": 34.04607,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3022&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3022&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "999 E Third Street",
+        "name": "3rd & Santa Fe",
+        "station_id": "bcycle_lametro_3022"
+      },
+      {
+        "lon": -118.24897,
+        "lat": 34.05772,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3024&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3024&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "111 N Hope St",
+        "name": "Hope & 1st",
+        "station_id": "bcycle_lametro_3024"
+      },
+      {
+        "lon": -118.26808,
+        "lat": 34.03286,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3025&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3025&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1014 S Grand Ave",
+        "name": "Grand & Washington",
+        "station_id": "bcycle_lametro_3025"
+      },
+      {
+        "lon": -118.24588,
+        "lat": 34.06318,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3026&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3026&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "668 N Figueroa Street",
+        "name": "Figueroa & Cesar Chavez",
+        "station_id": "bcycle_lametro_3026"
+      },
+      {
+        "lon": -118.24716,
+        "lat": 34.04998,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3027&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3027&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "300 S Spring Street",
+        "name": "Spring & 3rd",
+        "station_id": "bcycle_lametro_3027"
+      },
+      {
+        "lon": -118.24353,
+        "lat": 34.05194,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3030&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3030&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "120 S Main Street",
+        "name": "Main & 1st",
+        "station_id": "bcycle_lametro_3030"
+      },
+      {
+        "lon": -118.25588,
+        "lat": 34.04989,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3032&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3032&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "557 S Hope Street",
+        "name": "Hope & 6th",
+        "station_id": "bcycle_lametro_3032"
+      },
+      {
+        "lon": -118.2558,
+        "lat": 34.04099,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3033&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3033&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "110 E 9th Street",
+        "name": "Main & 9th",
+        "station_id": "bcycle_lametro_3033"
+      },
+      {
+        "lon": -118.26338,
+        "lat": 34.04206,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3034&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3034&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1113 S Hope St",
+        "name": "Hope & 11th",
+        "station_id": "bcycle_lametro_3034"
+      },
+      {
+        "lon": -118.26095,
+        "lat": 34.0484,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3035&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3035&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "735 S Figueroa Street",
+        "name": "Figueroa & 8th",
+        "station_id": "bcycle_lametro_3035"
+      },
+      {
+        "lon": -118.23253,
+        "lat": 34.03919,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3036&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3036&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1301 Willow Street",
+        "name": "Willow & Mateo",
+        "station_id": "bcycle_lametro_3036"
+      },
+      {
+        "lon": -118.23128,
+        "lat": 34.0348,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3037&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3037&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "699 S Imperial St",
+        "name": "Imperial & 7th",
+        "station_id": "bcycle_lametro_3037"
+      },
+      {
+        "lon": -118.26636,
+        "lat": 34.05357,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3040&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3040&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1234 Wilshire Blvd",
+        "name": "Wilshire & Witmer",
+        "station_id": "bcycle_lametro_3040"
+      },
+      {
+        "lon": -118.23881,
+        "lat": 34.0493,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3042&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3042&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "369 E First Street",
+        "name": "1st & Central",
+        "station_id": "bcycle_lametro_3042"
+      },
+      {
+        "lon": -118.25667,
+        "lat": 34.02851,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3045&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3045&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1850 San Pedro St",
+        "name": "18th & San Pedro",
+        "station_id": "bcycle_lametro_3045"
+      },
+      {
+        "lon": -118.24749,
+        "lat": 34.05287,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3046&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3046&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 South Hill Street",
+        "name": "2nd & Hill",
+        "station_id": "bcycle_lametro_3046"
+      },
+      {
+        "lon": -118.2664,
+        "lat": 34.03998,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3047&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3047&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "515 W Pico Street",
+        "name": "Pico & Flower",
+        "station_id": "bcycle_lametro_3047"
+      },
+      {
+        "lon": -118.23535,
+        "lat": 34.04169,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3048&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3048&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1210 East 5th Street",
+        "name": "5th & Hewitt",
+        "station_id": "bcycle_lametro_3048"
+      },
+      {
+        "lon": -118.26456,
+        "lat": 34.0511,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3052&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3052&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1107 W 7th Street",
+        "name": "7th & Bixel",
+        "station_id": "bcycle_lametro_3052"
+      },
+      {
+        "lon": -118.23649,
+        "lat": 34.03922,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3054&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3054&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1245 Factory Place",
+        "name": "Factory Place & Alameda",
+        "station_id": "bcycle_lametro_3054"
+      },
+      {
+        "lon": -118.26538,
+        "lat": 34.03746,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3056&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3056&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1375 S Grand Ave",
+        "name": "Grand & 14th",
+        "station_id": "bcycle_lametro_3056"
+      },
+      {
+        "lon": -118.23317,
+        "lat": 34.0358,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3058&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3058&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1855 Industrial Street",
+        "name": "Industrial & Mateo",
+        "station_id": "bcycle_lametro_3058"
+      },
+      {
+        "lon": -118.24317,
+        "lat": 34.04775,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3062&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3062&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "350 E Third Street",
+        "name": "3rd & San Pedro",
+        "station_id": "bcycle_lametro_3062"
+      },
+      {
+        "lon": -118.25374,
+        "lat": 34.04804,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3063&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3063&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "532 W Olive Street",
+        "name": "Pershing Square",
+        "station_id": "bcycle_lametro_3063"
+      },
+      {
+        "lon": -118.25759,
+        "lat": 34.04613,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3064&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3064&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "786 S Grand Ave",
+        "name": "Grand & 8th",
+        "station_id": "bcycle_lametro_3064"
+      },
+      {
+        "lon": -118.23833,
+        "lat": 34.06056,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3065&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3065&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "725 New High Street",
+        "name": "New High & Ord",
+        "station_id": "bcycle_lametro_3065"
+      },
+      {
+        "lon": -118.23616,
+        "lat": 34.06339,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3066&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3066&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "870 N Spring Street",
+        "name": "Spring & College",
+        "station_id": "bcycle_lametro_3066"
+      },
+      {
+        "lon": -118.25095,
+        "lat": 34.0532,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3068&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3068&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "250 S Grand Ave",
+        "name": "Grand & 3rd",
+        "station_id": "bcycle_lametro_3068"
+      },
+      {
+        "lon": -118.24794,
+        "lat": 34.05135,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3069&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3069&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "249 S Broadway Street",
+        "name": "Broadway & 3rd",
+        "station_id": "bcycle_lametro_3069"
+      },
+      {
+        "lon": -118.26117,
+        "lat": 34.04417,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3074&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3074&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "960 S Hope Street",
+        "name": "Hope & Olympic",
+        "station_id": "bcycle_lametro_3074"
+      },
+      {
+        "lon": -118.25619,
+        "lat": 34.04211,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3075&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3075&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "902 South Broadway",
+        "name": "Broadway & 9th",
+        "station_id": "bcycle_lametro_3075"
+      },
+      {
+        "lon": -118.25384,
+        "lat": 34.0406,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3076&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3076&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 East 9th Street",
+        "name": "9th & Los Angeles",
+        "station_id": "bcycle_lametro_3076"
+      },
+      {
+        "lon": -118.25026,
+        "lat": 34.0401,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3077&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3077&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "517 East 8th Street",
+        "name": "8th & Wall",
+        "station_id": "bcycle_lametro_3077"
+      },
+      {
+        "lon": -118.23894,
+        "lat": 34.06428,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3078&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3078&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "881 N Hill Street",
+        "name": "Hill & College",
+        "station_id": "bcycle_lametro_3078"
+      },
+      {
+        "lon": -118.23319,
+        "lat": 34.05014,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3079&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3079&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "720 E Temple St",
+        "name": "Temple & Vignes",
+        "station_id": "bcycle_lametro_3079"
+      },
+      {
+        "lon": -118.25018,
+        "lat": 34.03189,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3081&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3081&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "800 E 12th Street",
+        "name": "Stanford & 12th",
+        "station_id": "bcycle_lametro_3081"
+      },
+      {
+        "lon": -118.23741,
+        "lat": 34.04652,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3082&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_3082&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "599 Traction Ave",
+        "name": "Traction & Rose",
+        "station_id": "bcycle_lametro_3082"
+      },
+      {
+        "lon": -118.46796,
+        "lat": 33.99122,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4202&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4202&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1222 Abbot Kinney Blvd",
+        "name": "Abbot Kinney & Cadiz",
+        "station_id": "bcycle_lametro_4202"
+      },
+      {
+        "lon": -118.45163,
+        "lat": 33.98842,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4204&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4204&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2901 W Washington Blvd",
+        "name": "Washington & Abbot Kinney",
+        "station_id": "bcycle_lametro_4204"
+      },
+      {
+        "lon": -118.45367,
+        "lat": 33.99377,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4205&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4205&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "923 Venice Blvd",
+        "name": "Venice & Lincoln",
+        "station_id": "bcycle_lametro_4205"
+      },
+      {
+        "lon": -118.46101,
+        "lat": 33.99834,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4206&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4206&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1000 California Ave",
+        "name": "California & Lincoln",
+        "station_id": "bcycle_lametro_4206"
+      },
+      {
+        "lon": -118.46891,
+        "lat": 34.00088,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4207&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4207&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "715 Rose Ave",
+        "name": "Rose & 7th",
+        "station_id": "bcycle_lametro_4207"
+      },
+      {
+        "lon": -118.47298,
+        "lat": 33.99868,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4208&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4208&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "529 Rose Ave",
+        "name": "Rose & Rennie",
+        "station_id": "bcycle_lametro_4208"
+      },
+      {
+        "lon": -118.47745,
+        "lat": 33.99624,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4209&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4209&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "200 Rose Ave",
+        "name": "Rose & Main",
+        "station_id": "bcycle_lametro_4209"
+      },
+      {
+        "lon": -118.47155,
+        "lat": 33.98434,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4210&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4210&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2100 Ocean Front Walk",
+        "name": "Ocean Front Walk & North Venice",
+        "station_id": "bcycle_lametro_4210"
+      },
+      {
+        "lon": -118.46996,
+        "lat": 33.98493,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4211&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4211&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2100 Pacific Ave",
+        "name": "Pacific & North Venice",
+        "station_id": "bcycle_lametro_4211"
+      },
+      {
+        "lon": -118.47174,
+        "lat": 33.98813,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4212&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4212&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "140 Windward Ave",
+        "name": "Windward & Main",
+        "station_id": "bcycle_lametro_4212"
+      },
+      {
+        "lon": -118.4648,
+        "lat": 33.99537,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4213&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4213&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1150 7th Ave",
+        "name": "7th & Westminster",
+        "station_id": "bcycle_lametro_4213"
+      },
+      {
+        "lon": -118.48155,
+        "lat": 33.99556,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4214&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4214&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Ocean Front Walk at Navy St",
+        "name": "Ocean Front Walk & Navy",
+        "station_id": "bcycle_lametro_4214"
+      },
+      {
+        "lon": -118.49134,
+        "lat": 34.01431,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4215&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4215&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1621 4th St",
+        "name": "Downtown Santa Monica E Line Station (North)",
+        "station_id": "bcycle_lametro_4215"
+      },
+      {
+        "lon": -118.47964,
+        "lat": 34.02339,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4216&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4216&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1610 Colorado Ave",
+        "name": "17th St & SMC E Line Station",
+        "station_id": "bcycle_lametro_4216"
+      },
+      {
+        "lon": -118.25827,
+        "lat": 34.04031,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4217&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4217&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1041 S Broadway",
+        "name": "Broadway & 11th",
+        "station_id": "bcycle_lametro_4217"
+      },
+      {
+        "lon": -118.25873,
+        "lat": 34.07483,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4220&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4220&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1610 Park Ave",
+        "name": "Park & Echo Park",
+        "station_id": "bcycle_lametro_4220"
+      },
+      {
+        "lon": -118.27031,
+        "lat": 34.0298,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4227&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4227&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2117 S Grand Ave",
+        "name": "Grand & LATTC",
+        "station_id": "bcycle_lametro_4227"
+      },
+      {
+        "lon": -118.28341,
+        "lat": 34.02404,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4245&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4245&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3451 University Ave",
+        "name": "University & Hoover",
+        "station_id": "bcycle_lametro_4245"
+      },
+      {
+        "lon": -118.27917,
+        "lat": 34.02371,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4246&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4246&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "699 W 32nd Street",
+        "name": "32nd & Figueroa",
+        "station_id": "bcycle_lametro_4246"
+      },
+      {
+        "lon": -118.29131,
+        "lat": 34.03364,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4247&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4247&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1369 W 25th Street",
+        "name": "25th & Vermont",
+        "station_id": "bcycle_lametro_4247"
+      },
+      {
+        "lon": -118.28867,
+        "lat": 34.02835,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4248&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4248&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1276 W 29th St",
+        "name": "29th & Ellendale",
+        "station_id": "bcycle_lametro_4248"
+      },
+      {
+        "lon": -118.28118,
+        "lat": 34.0203,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4249&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4249&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3499 S Figueroa St",
+        "name": "Figueroa & McCarthy Way",
+        "station_id": "bcycle_lametro_4249"
+      },
+      {
+        "lon": -118.28095,
+        "lat": 34.03017,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4250&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4250&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "804 W Adams Blvd",
+        "name": "Severance & Adams",
+        "station_id": "bcycle_lametro_4250"
+      },
+      {
+        "lon": -118.28411,
+        "lat": 34.02868,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4254&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4254&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2817 Hoover St",
+        "name": "Hoover & 29th",
+        "station_id": "bcycle_lametro_4254"
+      },
+      {
+        "lon": -118.42286,
+        "lat": 33.97366,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4255&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4255&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "6020 Seabluff Dr",
+        "name": "Seabluff & Runway",
+        "station_id": "bcycle_lametro_4255"
+      },
+      {
+        "lon": -118.27769,
+        "lat": 34.02629,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4266&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4266&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "613 W 28th St",
+        "name": "28th & Figueroa",
+        "station_id": "bcycle_lametro_4266"
+      },
+      {
+        "lon": -118.28068,
+        "lat": 34.02762,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4267&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4267&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "737 W 28th St",
+        "name": "28th & University",
+        "station_id": "bcycle_lametro_4267"
+      },
+      {
+        "lon": -118.2841,
+        "lat": 34.02586,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4273&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4273&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3175 South Hoover Street",
+        "name": "Hoover & 32nd",
+        "station_id": "bcycle_lametro_4273"
+      },
+      {
+        "lon": -118.2859,
+        "lat": 34.01252,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4275&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4275&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Southwest Stadium Entrance",
+        "name": "Expo Park LAFC",
+        "station_id": "bcycle_lametro_4275"
+      },
+      {
+        "lon": -118.27152,
+        "lat": 34.06228,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4293&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4293&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "300 S Westlake Ave",
+        "name": "Westlake & 3rd",
+        "station_id": "bcycle_lametro_4293"
+      },
+      {
+        "lon": -118.2743,
+        "lat": 34.04887,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4300&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4300&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1552 W Olympic Blvd",
+        "name": "Union & Olympic",
+        "station_id": "bcycle_lametro_4300"
+      },
+      {
+        "lon": -118.2915,
+        "lat": 34.09905,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4301&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4301&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4698-4680 Maubert Ave",
+        "name": "Maubert & Vermont",
+        "station_id": "bcycle_lametro_4301"
+      },
+      {
+        "lon": -118.28707,
+        "lat": 34.09801,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4303&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4303&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4459 Sunset Blvd",
+        "name": "Sunset & Virgil",
+        "station_id": "bcycle_lametro_4303"
+      },
+      {
+        "lon": -118.29009,
+        "lat": 34.06258,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4304&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4304&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "629 Shatto Pl",
+        "name": "Shatto Pl & Wilshire",
+        "station_id": "bcycle_lametro_4304"
+      },
+      {
+        "lon": -118.29218,
+        "lat": 34.05765,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4306&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4306&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3038 W 8th St",
+        "name": "8th & Vermont",
+        "station_id": "bcycle_lametro_4306"
+      },
+      {
+        "lon": -118.29466,
+        "lat": 34.05969,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4311&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4311&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3192 W 7th St",
+        "name": "7th & Berendo",
+        "station_id": "bcycle_lametro_4311"
+      },
+      {
+        "lon": -118.29088,
+        "lat": 34.06699,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4312&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4312&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3260 W 4th St",
+        "name": "4th & Vermont",
+        "station_id": "bcycle_lametro_4312"
+      },
+      {
+        "lon": -118.275,
+        "lat": 34.05681,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4313&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4313&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "662 S Westlake Ave",
+        "name": "Westlake & MacArthur Park Station",
+        "station_id": "bcycle_lametro_4313"
+      },
+      {
+        "lon": -118.27976,
+        "lat": 34.05771,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4314&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4314&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2378 W 7th St",
+        "name": "7th & Park View",
+        "station_id": "bcycle_lametro_4314"
+      },
+      {
+        "lon": -118.27092,
+        "lat": 34.05403,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4315&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4315&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "694 South Union Avenue",
+        "name": "Union & 7th",
+        "station_id": "bcycle_lametro_4315"
+      },
+      {
+        "lon": -118.24184,
+        "lat": 34.03352,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4387&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4387&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "777 Alameda St",
+        "name": "Row DTLA",
+        "station_id": "bcycle_lametro_4387"
+      },
+      {
+        "lon": -118.29659,
+        "lat": 34.06927,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4390&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4390&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "S Kenmore Ave & W 3rd St",
+        "name": "Kenmore & 3rd",
+        "station_id": "bcycle_lametro_4390"
+      },
+      {
+        "lon": -118.29186,
+        "lat": 34.07561,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4401&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4401&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Vermont & Beverly ",
+        "name": "Vermont & Beverly",
+        "station_id": "bcycle_lametro_4401"
+      },
+      {
+        "lon": -118.27103,
+        "lat": 34.04813,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4404&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4404&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "919 Albany St",
+        "name": "Albany & Olympic",
+        "station_id": "bcycle_lametro_4404"
+      },
+      {
+        "lon": -118.29368,
+        "lat": 34.0519,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4405&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4405&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Berendo & Olympic road",
+        "name": "Berendo & Olympic",
+        "station_id": "bcycle_lametro_4405"
+      },
+      {
+        "lon": -118.30061,
+        "lat": 34.10189,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4406&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4406&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1689 N Normandie Ave",
+        "name": "Normandie & Hollywood",
+        "station_id": "bcycle_lametro_4406"
+      },
+      {
+        "lon": -118.2968,
+        "lat": 34.06335,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4410&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4410&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "609 S Kenmore Ave",
+        "name": "Kenmore & 6th",
+        "station_id": "bcycle_lametro_4410"
+      },
+      {
+        "lon": -118.29194,
+        "lat": 34.10578,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4436&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4436&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1900 N Vermont",
+        "name": "Vermont & Franklin",
+        "station_id": "bcycle_lametro_4436"
+      },
+      {
+        "lon": -118.28727,
+        "lat": 34.10536,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4437&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4437&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4500 Franklin Ave",
+        "name": "Franklin & Hillhurst",
+        "station_id": "bcycle_lametro_4437"
+      },
+      {
+        "lon": -118.29824,
+        "lat": 34.06166,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4440&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4440&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3420 Wilshire Blvd",
+        "name": "Wilshire & Alexandria",
+        "station_id": "bcycle_lametro_4440"
+      },
+      {
+        "lon": -118.28181,
+        "lat": 34.02662,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4441&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4441&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "University Ave",
+        "name": "30th & University ",
+        "station_id": "bcycle_lametro_4441"
+      },
+      {
+        "lon": -118.30047,
+        "lat": 34.098,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4442&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4442&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1498 N Normandie",
+        "name": "Normandie & Sunset",
+        "station_id": "bcycle_lametro_4442"
+      },
+      {
+        "lon": -118.27979,
+        "lat": 34.02209,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4443&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4443&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3330 S Figueroa St",
+        "name": "Figueroa & Jefferson",
+        "station_id": "bcycle_lametro_4443"
+      },
+      {
+        "lon": -118.30557,
+        "lat": 34.06162,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4444&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4444&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3670 Wilshire Blvd",
+        "name": "Wilshire & Hobart",
+        "station_id": "bcycle_lametro_4444"
+      },
+      {
+        "lon": -118.25157,
+        "lat": 34.07364,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4445&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4445&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1389 S Sunset Blvd",
+        "name": "Sunset & Douglas",
+        "station_id": "bcycle_lametro_4445"
+      },
+      {
+        "lon": -118.27842,
+        "lat": 34.05323,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4446&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4446&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2059 James M. Wood Blvd",
+        "name": "James M. Wood & Alvarado",
+        "station_id": "bcycle_lametro_4446"
+      },
+      {
+        "lon": -118.28199,
+        "lat": 34.0616,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4447&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4447&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "623 S Rampart Blvd",
+        "name": "Rampart & Wilshire",
+        "station_id": "bcycle_lametro_4447"
+      },
+      {
+        "lon": -118.27319,
+        "lat": 34.03027,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4448&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4448&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "509 W 23rd St",
+        "name": "23rd St & Flower",
+        "station_id": "bcycle_lametro_4448"
+      },
+      {
+        "lon": -118.27419,
+        "lat": 34.04557,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4449&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4449&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1153 Valencia St",
+        "name": "12th & Valencia",
+        "station_id": "bcycle_lametro_4449"
+      },
+      {
+        "lon": -118.28716,
+        "lat": 34.06349,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4450&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4450&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3000 W 6th St",
+        "name": "Virgil & 6th",
+        "station_id": "bcycle_lametro_4450"
+      },
+      {
+        "lon": -118.29131,
+        "lat": 34.10363,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4451&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4451&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4647 Melbourne Ave",
+        "name": "Melbourne & Vermont",
+        "station_id": "bcycle_lametro_4451"
+      },
+      {
+        "lon": -118.28746,
+        "lat": 34.10233,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4452&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4452&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1717 Hillhurst Ave",
+        "name": "Hillhurst & Kingswell",
+        "station_id": "bcycle_lametro_4452"
+      },
+      {
+        "lon": -118.28439,
+        "lat": 34.0826,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4453&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4453&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "626 Lucile Ave",
+        "name": "Lucile & Hoover",
+        "station_id": "bcycle_lametro_4453"
+      },
+      {
+        "lon": -118.29172,
+        "lat": 34.0179,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4454&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4454&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3775 S Vermont Ave",
+        "name": "Vermont & Exposition",
+        "station_id": "bcycle_lametro_4454"
+      },
+      {
+        "lon": -118.27181,
+        "lat": 34.10936,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4455&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4455&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2841 1/2 Hyperion Ave",
+        "name": "Rowena & Hyperion",
+        "station_id": "bcycle_lametro_4455"
+      },
+      {
+        "lon": -118.30202,
+        "lat": 34.05243,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4456&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4456&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "W Olympic Blvd & S Ardmore Ave",
+        "name": "Ardmore & Olympic",
+        "station_id": "bcycle_lametro_4456"
+      },
+      {
+        "lon": -118.28986,
+        "lat": 34.10011,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4457&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4457&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Hollywood Blvd & Rodney Dr",
+        "name": "Hollywood & Rodney",
+        "station_id": "bcycle_lametro_4457"
+      },
+      {
+        "lon": -118.28093,
+        "lat": 34.0926,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4472&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4472&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Sunset Blvd & Sanborn Ave",
+        "name": "Santa Monica & Sunset",
+        "station_id": "bcycle_lametro_4472"
+      },
+      {
+        "lon": -118.28229,
+        "lat": 34.07159,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4473&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4473&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "3040 Beverly Blvd",
+        "name": "Vendome & Beverly",
+        "station_id": "bcycle_lametro_4473"
+      },
+      {
+        "lon": -118.28716,
+        "lat": 34.11003,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4474&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4474&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Ambrose Ave & Hillhurst Ave",
+        "name": "Ambrose & Hillhurst",
+        "station_id": "bcycle_lametro_4474"
+      },
+      {
+        "lon": -118.24325,
+        "lat": 34.04518,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4475&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4475&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "415 San Pedro St",
+        "name": "San Pedro & Winston",
+        "station_id": "bcycle_lametro_4475"
+      },
+      {
+        "lon": -118.27272,
+        "lat": 34.08252,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4476&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4476&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2847 Sunset Blvd",
+        "name": "Sunset & Silver Lake",
+        "station_id": "bcycle_lametro_4476"
+      },
+      {
+        "lon": -118.32546,
+        "lat": 34.10385,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4477&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4477&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "6247 Yucca St",
+        "name": "Yucca & Argyle",
+        "station_id": "bcycle_lametro_4477"
+      },
+      {
+        "lon": -118.28874,
+        "lat": 34.0315,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4479&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4479&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2617-2717 Ellendale Pl",
+        "name": "Ellendale Pl & Adams",
+        "station_id": "bcycle_lametro_4479"
+      },
+      {
+        "lon": -118.25912,
+        "lat": 34.1007,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4483&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4483&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2420 Glendale Blv",
+        "name": "Glendale & Silver Lake",
+        "station_id": "bcycle_lametro_4483"
+      },
+      {
+        "lon": -118.44692,
+        "lat": 34.06211,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4487&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4487&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1017 Broxton Ave",
+        "name": "Broxton & Weyburn",
+        "station_id": "bcycle_lametro_4487"
+      },
+      {
+        "lon": -118.25584,
+        "lat": 34.05355,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4490&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4490&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "S Figueroa St & W 4th St",
+        "name": "Figueroa & 4th",
+        "station_id": "bcycle_lametro_4490"
+      },
+      {
+        "lon": -118.24794,
+        "lat": 34.04744,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4491&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4491&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "429 S Main St",
+        "name": "Main & Winston",
+        "station_id": "bcycle_lametro_4491"
+      },
+      {
+        "lon": -118.4255,
+        "lat": 34.03687,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4492&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4492&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Westwood Blvd & Exposition Blvd",
+        "name": "Westwood/Rancho Park E Line Station",
+        "station_id": "bcycle_lametro_4492"
+      },
+      {
+        "lon": -118.27719,
+        "lat": 34.09028,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4493&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4493&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Sunset Blvd & Maltman Ave",
+        "name": "Sunset Triangle Plaza",
+        "station_id": "bcycle_lametro_4493"
+      },
+      {
+        "lon": -118.25601,
+        "lat": 34.07598,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4494&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4494&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1524 Sunset Blvd",
+        "name": "Laveta Terrace & Sunset",
+        "station_id": "bcycle_lametro_4494"
+      },
+      {
+        "lon": -118.30917,
+        "lat": 34.10164,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4509&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4509&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1661 Western Ave ",
+        "name": "Western & Hollywood",
+        "station_id": "bcycle_lametro_4509"
+      },
+      {
+        "lon": -118.26455,
+        "lat": 34.07735,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4510&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4510&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2134 Sunset Blvd",
+        "name": "Mohawk Bend",
+        "station_id": "bcycle_lametro_4510"
+      },
+      {
+        "lon": -118.23177,
+        "lat": 34.05628,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4511&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4511&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "N Vignes St",
+        "name": "Union Station East Portal",
+        "station_id": "bcycle_lametro_4511"
+      },
+      {
+        "lon": -118.26497,
+        "lat": 34.04381,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4512&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4512&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1060 S Figueroa St ",
+        "name": "Figueroa & 11th",
+        "station_id": "bcycle_lametro_4512"
+      },
+      {
+        "lon": -118.45117,
+        "lat": 34.04621,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4514&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4514&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1600 Purdue Ave",
+        "name": "Purdue & Santa Monica",
+        "station_id": "bcycle_lametro_4514"
+      },
+      {
+        "lon": -118.44227,
+        "lat": 34.03974,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4515&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4515&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "11298 Mississippi Ave",
+        "name": "Mississippi & Sawtelle",
+        "station_id": "bcycle_lametro_4515"
+      },
+      {
+        "lon": -118.33885,
+        "lat": 34.10196,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4517&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4517&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "1721-1701 N Highland Ave",
+        "name": "Highland & Hollywood",
+        "station_id": "bcycle_lametro_4517"
+      },
+      {
+        "lon": -118.41205,
+        "lat": 33.99032,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4521&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4521&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "4955 Inglewood Blvd",
+        "name": "Inglewood & Ballona",
+        "station_id": "bcycle_lametro_4521"
+      },
+      {
+        "lon": -118.30928,
+        "lat": 34.06875,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4523&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4523&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "311 S Western Ave",
+        "name": "Western & 3rd",
+        "station_id": "bcycle_lametro_4523"
+      },
+      {
+        "lon": -118.30119,
+        "lat": 34.06163,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4524&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4524&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Wilshire Normandie Plaza",
+        "name": "Wilshire & Normandie",
+        "station_id": "bcycle_lametro_4524"
+      },
+      {
+        "lon": -118.3418,
+        "lat": 34.10038,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4525&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4525&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "7000 Hawthorn Ave",
+        "name": "Hawthorn & Orange",
+        "station_id": "bcycle_lametro_4525"
+      },
+      {
+        "lon": -118.34919,
+        "lat": 34.10338,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4526&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4526&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "7333 Franklin Ave",
+        "name": "Franklin & Fuller",
+        "station_id": "bcycle_lametro_4526"
+      },
+      {
+        "lon": -118.33741,
+        "lat": 34.102,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4527&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4527&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "1714 N McCadden Pl",
+        "name": "McCadden & Hollywood",
+        "station_id": "bcycle_lametro_4527"
+      },
+      {
+        "lon": -118.44437,
+        "lat": 34.06097,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4528&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4528&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1080 Glendon Ave",
+        "name": "Glendon & Kinross",
+        "station_id": "bcycle_lametro_4528"
+      },
+      {
+        "lon": -118.33329,
+        "lat": 34.10186,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4529&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4529&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "6561 Hollywood Blvd",
+        "name": "Whitley & Hollywood",
+        "station_id": "bcycle_lametro_4529"
+      },
+      {
+        "lon": -118.32811,
+        "lat": 34.10186,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4534&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4534&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "6331 Hollywood Blvd",
+        "name": "Ivar & Hollywood",
+        "station_id": "bcycle_lametro_4534"
+      },
+      {
+        "lon": -118.46226,
+        "lat": 33.98908,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4536&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4536&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "600 Venice Boulevard",
+        "name": "Venice & Abbot Kinney",
+        "station_id": "bcycle_lametro_4536"
+      },
+      {
+        "lon": -118.33882,
+        "lat": 34.09823,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4537&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4537&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "1500 N Highland Ave",
+        "name": "Highland & Sunset",
+        "station_id": "bcycle_lametro_4537"
+      },
+      {
+        "lon": -118.30882,
+        "lat": 34.06543,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4538&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4538&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "450 S Western Ave ",
+        "name": "5th & Western",
+        "station_id": "bcycle_lametro_4538"
+      },
+      {
+        "lon": -118.22541,
+        "lat": 34.04776,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4540&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4540&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "111 S Utah St",
+        "name": "1st & Utah",
+        "station_id": "bcycle_lametro_4540"
+      },
+      {
+        "lon": -118.45125,
+        "lat": 33.95718,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4543&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4543&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "6900 Pacific Ave",
+        "name": "Toes Beach at Culver Blvd",
+        "station_id": "bcycle_lametro_4543"
+      },
+      {
+        "lon": -118.4352,
+        "lat": 33.92846,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4544&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4544&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Dockweiler Beach",
+        "name": "Dockweiler Beach at Imperial Hwy",
+        "station_id": "bcycle_lametro_4544"
+      },
+      {
+        "lon": -118.44828,
+        "lat": 33.95879,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4545&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4545&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "200 Culver Blvd",
+        "name": "Vista Del Mar & Culver",
+        "station_id": "bcycle_lametro_4545"
+      },
+      {
+        "lon": -118.45363,
+        "lat": 34.0314,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4546&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4546&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12201 Exposition Blvd",
+        "name": "Expo & Bundy E Line Station",
+        "station_id": "bcycle_lametro_4546"
+      },
+      {
+        "lon": -118.44888,
+        "lat": 33.9897,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4547&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4547&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3205 Washington Blvd",
+        "name": "Stanford & Washington",
+        "station_id": "bcycle_lametro_4547"
+      },
+      {
+        "lon": -118.39352,
+        "lat": 34.02683,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4548&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4548&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "8985 Venice Blvd",
+        "name": "Durango & Venice",
+        "station_id": "bcycle_lametro_4548"
+      },
+      {
+        "lon": -118.43833,
+        "lat": 34.02245,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4549&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4549&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3010 S Barrington Ave",
+        "name": "Barrington & National",
+        "station_id": "bcycle_lametro_4549"
+      },
+      {
+        "lon": -118.4213,
+        "lat": 33.99097,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4552&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4552&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12415 Culver Blvd",
+        "name": "Culver & Centinela",
+        "station_id": "bcycle_lametro_4552"
+      },
+      {
+        "lon": -118.44136,
+        "lat": 33.99958,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4553&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4553&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12904 Venice Blvd",
+        "name": "Venice & Beethoven",
+        "station_id": "bcycle_lametro_4553"
+      },
+      {
+        "lon": -118.43438,
+        "lat": 34.00351,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4554&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4554&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12413 Venice",
+        "name": "Venice & Colonial",
+        "station_id": "bcycle_lametro_4554"
+      },
+      {
+        "lon": -118.42916,
+        "lat": 34.00587,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4555&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4555&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12006 Venice Blvd",
+        "name": "Venice & Inglewood",
+        "station_id": "bcycle_lametro_4555"
+      },
+      {
+        "lon": -118.42501,
+        "lat": 34.00902,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4556&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4556&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3781 McLaughlin",
+        "name": "McLaughlin & Venice",
+        "station_id": "bcycle_lametro_4556"
+      },
+      {
+        "lon": -118.41944,
+        "lat": 34.0118,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4557&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4557&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "11289 Venice Blvd",
+        "name": "Venice & Sawtelle",
+        "station_id": "bcycle_lametro_4557"
+      },
+      {
+        "lon": -118.3953,
+        "lat": 34.02569,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4558&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4558&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3775 Bagley Ave",
+        "name": "Bagley & Venice",
+        "station_id": "bcycle_lametro_4558"
+      },
+      {
+        "lon": -118.42268,
+        "lat": 34.02006,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4561&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4561&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3466 S Sepulveda Blvd",
+        "name": "Sepulveda & Palms",
+        "station_id": "bcycle_lametro_4561"
+      },
+      {
+        "lon": -118.42821,
+        "lat": 34.02697,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4562&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4562&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Sepulveda & National",
+        "name": "Sepulveda & National",
+        "station_id": "bcycle_lametro_4562"
+      },
+      {
+        "lon": -118.40957,
+        "lat": 34.01745,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4563&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4563&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "10823 Venice Blvd",
+        "name": "Venice & Glendon",
+        "station_id": "bcycle_lametro_4563"
+      },
+      {
+        "lon": -118.43414,
+        "lat": 34.03535,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4564&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4564&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "11295 Exposition Blvd",
+        "name": "Expo/Sepulveda E Line Station",
+        "station_id": "bcycle_lametro_4564"
+      },
+      {
+        "lon": -118.43467,
+        "lat": 33.98995,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4565&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4565&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "4314-4300 Alla Rd",
+        "name": "Alla & Maxella",
+        "station_id": "bcycle_lametro_4565"
+      },
+      {
+        "lon": -118.39922,
+        "lat": 34.02339,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4566&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4566&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "9907 Venice Blvd",
+        "name": "Venice & Hughes",
+        "station_id": "bcycle_lametro_4566"
+      },
+      {
+        "lon": -118.40403,
+        "lat": 34.02018,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4567&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4567&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "10404 Venice Blvd",
+        "name": "Venice & Motor",
+        "station_id": "bcycle_lametro_4567"
+      },
+      {
+        "lon": -118.40317,
+        "lat": 34.02912,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4568&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4568&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "10001 Exposition Blvd",
+        "name": "Palms E Line Station",
+        "station_id": "bcycle_lametro_4568"
+      },
+      {
+        "lon": -118.40846,
+        "lat": 34.02655,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4569&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4569&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "10323 Palms Blvd",
+        "name": "Palms & Motor",
+        "station_id": "bcycle_lametro_4569"
+      },
+      {
+        "lon": -118.4178,
+        "lat": 34.01376,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4570&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4570&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3732 S Sepulveda Blvd",
+        "name": "Sepulveda & Venice",
+        "station_id": "bcycle_lametro_4570"
+      },
+      {
+        "lon": -118.41356,
+        "lat": 34.02765,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4571&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4571&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "10618 Rose Ave",
+        "name": "Rose & Overland",
+        "station_id": "bcycle_lametro_4571"
+      },
+      {
+        "lon": -118.40253,
+        "lat": 34.00031,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4575&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4575&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "11220-11200 Lucerne Ave",
+        "name": "Lucerne & Sepulveda",
+        "station_id": "bcycle_lametro_4575"
+      },
+      {
+        "lon": -118.40551,
+        "lat": 34.02258,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4576&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4576&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3704-3700 Motor Ave",
+        "name": "Motor & Regent",
+        "station_id": "bcycle_lametro_4576"
+      },
+      {
+        "lon": -118.25295,
+        "lat": 34.04298,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4578&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4578&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "755 S Main",
+        "name": "Main & 8th",
+        "station_id": "bcycle_lametro_4578"
+      },
+      {
+        "lon": -118.43113,
+        "lat": 33.98486,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4579&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4579&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "4666-4650 Alla Rd",
+        "name": "Alla & Glencoe",
+        "station_id": "bcycle_lametro_4579"
+      },
+      {
+        "lon": -118.41083,
+        "lat": 33.98293,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4580&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4580&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Centinela & Lucile",
+        "name": "Centinela & Lucile",
+        "station_id": "bcycle_lametro_4580"
+      },
+      {
+        "lon": -118.42607,
+        "lat": 33.97024,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4581&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4581&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Playa Vista Drive",
+        "name": "Playa Vista Library",
+        "station_id": "bcycle_lametro_4581"
+      },
+      {
+        "lon": -118.41842,
+        "lat": 33.97619,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4583&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4583&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "12855 Runway",
+        "name": "McConnell & Runway",
+        "station_id": "bcycle_lametro_4583"
+      },
+      {
+        "lon": -118.32636,
+        "lat": 34.09435,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4584&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4584&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "6265 Fountain Ave",
+        "name": "Fountain & Vine",
+        "station_id": "bcycle_lametro_4584"
+      },
+      {
+        "lon": -118.30907,
+        "lat": 34.06079,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4587&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4587&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "650 S Western Ave",
+        "name": "Wiltern",
+        "station_id": "bcycle_lametro_4587"
+      },
+      {
+        "lon": -118.39616,
+        "lat": 34.16833,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4596&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4596&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5352 Laurel Canyon Blvd",
+        "name": "Chandler & Laurel Canyon",
+        "station_id": "bcycle_lametro_4596"
+      },
+      {
+        "lon": -118.35515,
+        "lat": 34.16522,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4597&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4597&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "10301 W Magnolia Blvd",
+        "name": "Magnolia & Clybourn",
+        "station_id": "bcycle_lametro_4597"
+      },
+      {
+        "lon": -118.37515,
+        "lat": 34.16552,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4598&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4598&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5223 Lankershim Blvd",
+        "name": "North Hollywood Plaza",
+        "station_id": "bcycle_lametro_4598"
+      },
+      {
+        "lon": -118.36187,
+        "lat": 34.16875,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4599&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4599&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "10605 Chandler Blvd",
+        "name": "Chandler & Cahuenga",
+        "station_id": "bcycle_lametro_4599"
+      },
+      {
+        "lon": -118.38231,
+        "lat": 34.17765,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4600&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4600&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5906 Lankershim Blvd",
+        "name": "Lankershim & Califa",
+        "station_id": "bcycle_lametro_4600"
+      },
+      {
+        "lon": -118.37282,
+        "lat": 34.16171,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4601&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4601&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5032 Lankershim Blvd",
+        "name": "Lankershim & Hesby",
+        "station_id": "bcycle_lametro_4601"
+      },
+      {
+        "lon": -118.36195,
+        "lat": 34.15214,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4603&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4603&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "10600 Riverside Dr",
+        "name": "Riverside & Cahuenga",
+        "station_id": "bcycle_lametro_4603"
+      },
+      {
+        "lon": -118.37081,
+        "lat": 34.15832,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4604&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4604&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4825 Lanklershim Blvd",
+        "name": "Lankershim & Vineland",
+        "station_id": "bcycle_lametro_4604"
+      },
+      {
+        "lon": -118.3506,
+        "lat": 34.152,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4605&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4605&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4499 Mariota Ave",
+        "name": "Mariota & Riverside",
+        "station_id": "bcycle_lametro_4605"
+      },
+      {
+        "lon": -118.37707,
+        "lat": 34.16863,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4606&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4606&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5377 Lankershim",
+        "name": "North Hollywood Station",
+        "station_id": "bcycle_lametro_4606"
+      },
+      {
+        "lon": -118.44535,
+        "lat": 34.06975,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4613&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4613&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "425 Westwood Plaza, Los Angeles, CA 90095",
+        "name": "Gateway Plaza",
+        "station_id": "bcycle_lametro_4613"
+      },
+      {
+        "lon": -118.43984,
+        "lat": 34.07365,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4614&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4614&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1317 Portola Plaza",
+        "name": "Perloff Hall",
+        "station_id": "bcycle_lametro_4614"
+      },
+      {
+        "lon": -118.32514,
+        "lat": 34.10185,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4627&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4627&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_9",
+        "address": "6203 Hollywood Blvd",
+        "name": "Argyle & Hollywood ",
+        "station_id": "bcycle_lametro_4627"
+      },
+      {
+        "lon": -118.28854,
+        "lat": 34.05978,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4628&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4628&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2966 7th St",
+        "name": "7th & Westmoreland",
+        "station_id": "bcycle_lametro_4628"
+      },
+      {
+        "lon": -118.44095,
+        "lat": 33.98667,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4632&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4632&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "13438 Maxella Ave",
+        "name": "Maxella & Glencoe",
+        "station_id": "bcycle_lametro_4632"
+      },
+      {
+        "lon": -118.44944,
+        "lat": 34.07262,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4643&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4643&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "UCLA12, Drake Stadium",
+        "name": "Drake Stadium",
+        "station_id": "bcycle_lametro_4643"
+      },
+      {
+        "lon": -118.45002,
+        "lat": 34.06186,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4644&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4644&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "UCLA17, Weyburn Terrace",
+        "name": "Weyburn Terrace",
+        "station_id": "bcycle_lametro_4644"
+      },
+      {
+        "lon": -118.42901,
+        "lat": 34.02341,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4645&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4645&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "3210 Sawtelle Blvd",
+        "name": "University Village (Sawtelle Blvd)",
+        "station_id": "bcycle_lametro_4645"
+      },
+      {
+        "lon": -118.48518,
+        "lat": 34.02705,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4652&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4652&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Arizona Ave & 16th",
+        "name": "Arizona Ave & 16th St",
+        "station_id": "bcycle_lametro_4652"
+      },
+      {
+        "lon": -118.44673,
+        "lat": 33.99724,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4660&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4660&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1621 Venice Blvd",
+        "name": "Venice & Walgrove",
+        "station_id": "bcycle_lametro_4660"
+      },
+      {
+        "lon": -118.30899,
+        "lat": 34.05516,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4664&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4664&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "928 S Western Ave",
+        "name": "Koreatown Plaza",
+        "station_id": "bcycle_lametro_4664"
+      },
+      {
+        "lon": -118.25319,
+        "lat": 34.04502,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4672&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4672&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "224 W 7th St",
+        "name": "7th & Broadway",
+        "station_id": "bcycle_lametro_4672"
+      },
+      {
+        "lon": -118.25509,
+        "lat": 34.04351,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4680&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4680&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "807 S Broadway",
+        "name": "Broadway & 8th",
+        "station_id": "bcycle_lametro_4680"
+      },
+      {
+        "lon": -118.42607,
+        "lat": 34.02385,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4689&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4689&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Sepulveda Blvd at Sepulveda Ct",
+        "name": "University Village (Sepulveda Blvd)",
+        "station_id": "bcycle_lametro_4689"
+      },
+      {
+        "lon": -118.37037,
+        "lat": 34.17245,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4690&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4690&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "5601 Vineland Ave",
+        "name": "Vineland & Burbank",
+        "station_id": "bcycle_lametro_4690"
+      },
+      {
+        "lon": -118.26495,
+        "lat": 33.98938,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4696&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4696&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Avalon & Slauson",
+        "name": "Avalon & Slauson",
+        "station_id": "bcycle_lametro_4696"
+      },
+      {
+        "lon": -118.248,
+        "lat": 33.9895,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4697&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4697&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Compton & Slauson",
+        "name": "Compton & Slauson",
+        "station_id": "bcycle_lametro_4697"
+      },
+      {
+        "lon": -118.28235,
+        "lat": 33.98934,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4698&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4698&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Figueroa & Slauson",
+        "name": "Figueroa & Slauson",
+        "station_id": "bcycle_lametro_4698"
+      },
+      {
+        "lon": -118.29119,
+        "lat": 33.9893,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4699&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4699&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Vermont & Slauson",
+        "name": "Vermont & Slauson",
+        "station_id": "bcycle_lametro_4699"
+      },
+      {
+        "lon": -118.3042,
+        "lat": 33.9893,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4700&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4700&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Denker & Slauson",
+        "name": "Denker & Slauson",
+        "station_id": "bcycle_lametro_4700"
+      },
+      {
+        "lon": -118.29492,
+        "lat": 34.08788,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4707&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4707&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Heliotrope & Lily Crest",
+        "name": "Heliotrope & Lily Crest",
+        "station_id": "bcycle_lametro_4707"
+      },
+      {
+        "lon": -118.25926,
+        "lat": 34.06417,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4729&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4729&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1415 Colton St",
+        "name": "Echo Park Pool",
+        "station_id": "bcycle_lametro_4729"
+      },
+      {
+        "lon": -118.29216,
+        "lat": 34.0894,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4730&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4730&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4626 Willow Brook Ave",
+        "name": "Vermont & Santa Monica B-Line (South)",
+        "station_id": "bcycle_lametro_4730"
+      },
+      {
+        "lon": -118.38985,
+        "lat": 34.02828,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4732&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4732&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "8946 Venice Blvd",
+        "name": "Culver City E Line",
+        "station_id": "bcycle_lametro_4732"
+      },
+      {
+        "lon": -118.47741,
+        "lat": 33.99131,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4733&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4733&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "N Park & Ocean Front Walk",
+        "name": "Park & Ocean Front Walk",
+        "station_id": "bcycle_lametro_4733"
+      },
+      {
+        "lon": -118.36012,
+        "lat": 34.0625,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4734&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4734&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "address": "Wilshire & Fairfax D Line Station",
+        "name": "Wilshire & Fairfax D Line Station",
+        "station_id": "bcycle_lametro_4734"
+      },
+      {
+        "lon": -118.34453,
+        "lat": 34.06254,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4735&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4735&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Wilshire & La Brea D Line Station",
+        "name": "Wilshire & La Brea D Line Station",
+        "station_id": "bcycle_lametro_4735"
+      },
+      {
+        "lon": -118.37586,
+        "lat": 34.06557,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4736&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4736&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "Wilshire & La Cienega D Line Station",
+        "name": "Wilshire & La Cienega D Line Station",
+        "station_id": "bcycle_lametro_4736"
+      },
+      {
+        "lon": -118.49136,
+        "lat": 34.01332,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4740&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4740&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_2",
+        "address": "4th & Colorado",
+        "name": "Downtown Santa Monica E Line Station (South)",
+        "station_id": "bcycle_lametro_4740"
+      },
+      {
+        "lon": -118.29196,
+        "lat": 34.09046,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4745&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_lametro&station_id=bcycle_lametro_4745&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_lametro_region_1",
+        "address": "4704 Santa Monica Blvd",
+        "name": "Vermont & Santa Monica B-Line (North)",
+        "station_id": "bcycle_lametro_4745"
+      }
+    ]
+  },
+  "version": "1.1",
+  "last_updated": 1788483901
+}
