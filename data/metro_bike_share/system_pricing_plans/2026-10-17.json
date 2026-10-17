@@ -1,0 +1,105 @@
+{
+  "last_updated": 1792199597,
+  "ttl": 3600,
+  "version": "1.1",
+  "data": {
+    "plans": [
+      {
+        "plan_id": "bcycle_lametro_239",
+        "name": "Metro Bike Share Monthly Pass - No SB Fees",
+        "currency": "USD",
+        "description": "MBS 30-Day Pass",
+        "url": "bikeshare.metro.net",
+        "price": 17.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310108",
+        "name": "Monthly Pass",
+        "currency": "USD",
+        "description": "Monthly Pass (TapForce)",
+        "url": "bikeshare.metro.net",
+        "price": 17.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310109",
+        "name": "Annual Pass",
+        "currency": "USD",
+        "description": "Annual Pass (TapForce)",
+        "url": "bikeshare.metro.net",
+        "price": 150.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310114",
+        "name": "Metro Bike Share Flex Pass",
+        "currency": "USD",
+        "url": "bikeshare.metro.net",
+        "price": 40.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310115",
+        "name": "1-Ride",
+        "currency": "USD",
+        "description": "$1.75 every 30 minutes. Additional $1 to unlock an Electric Metro Bike.\nThere will be a temporary hold of funds on your card. ",
+        "url": "bikeshare.metro.net",
+        "price": 1.75,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310122",
+        "name": "24-Hour Access Pass",
+        "currency": "USD",
+        "description": "24 hours of unlimited rides under 30 minutes, $1.75 per 30 minutes after. Electric Metro Bikes are an additional $1 to unlock. There will be a temporary hold of funds on your card.",
+        "url": "bikeshare.metro.net",
+        "price": 5.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310126",
+        "name": "365-Day Pass",
+        "currency": "USD",
+        "description": "365-Day Pass (BCycle)",
+        "url": "bikeshare.metro.net",
+        "price": 150.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310130",
+        "name": "30-Day Pass",
+        "currency": "USD",
+        "description": "30-Day Pass (BCycle)",
+        "url": "bikeshare.metro.net",
+        "price": 17.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310131",
+        "name": "30-Day Reduced Fare Pass",
+        "currency": "USD",
+        "url": "bikeshare.metro.net",
+        "price": 5.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310132",
+        "name": "365-Day Reduced Fare Pass",
+        "currency": "USD",
+        "url": "bikeshare.metro.net",
+        "price": 50.0,
+        "is_taxable": 0
+      },
+      {
+        "plan_id": "bcycle_lametro_2310133",
+        "name": "Bikeshare for Business",
+        "currency": "USD",
+        "description": "Bikeshare for Business Program",
+        "url": "bikeshare.metro.net",
+        "price": 0.0,
+        "is_taxable": 0
+      }
+    ]
+  }
+}
